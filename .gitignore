@@ -1,0 +1,5 @@
+/node_modules
+/dist
+/.angular
+/validation
+npm-debug.log*
